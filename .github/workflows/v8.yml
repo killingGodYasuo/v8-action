@@ -14,7 +14,7 @@ on:
 
 env:
   PATCH_FLAG: true
-  COMMIT: 6.2-lkgr
+  COMMIT: efa2ac4129d30c7c72e84c16af3d20b44829f990
   DEPOT_UPLOAD: true
   SRC_UPLOAD: true
   BINARY_UPLOAD: false
